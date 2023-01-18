@@ -5,7 +5,7 @@
 
 <p align="center">
 <a class="navbar-brand" href="https://github.com/NeturnProjects/Sturcco-Client" title="Página inicial">
-<img alt="Logo" src="https://cdn.discordapp.com/attachments/1056020605327130736/1065408350352838807/sturcco.png">
+<img alt="Logo" src="https://cdn.discordapp.com/attachments/1056020605327130736/1065411150205943808/Sem_titulo.png">
 </a>
 
 <p align="center">
