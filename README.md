@@ -6,4 +6,6 @@
 
 <p align="center">
 mod-pack/client called Sturcco Client, improving FPS and your PVP to 1.8.9!
+
+<p align="center">
 The client is not affiliated with MOJANG.
