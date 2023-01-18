@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-<a href="https://discord.gg/kCTRqgr6mG">Discord server</a>
+<a href="https://discord.gg/kCTRqgr6mG">DISCORD SERVER</a>
 </p>
 
 <h2 align="center">mod-pack/client called Sturcco Client, improving FPS and your PVP to 1.8.9!</h2>
