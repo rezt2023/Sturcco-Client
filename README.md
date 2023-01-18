@@ -14,7 +14,8 @@
 
 <p align="center">
 <h3 class="sidebar-card-title">mod-pack/client called Sturcco Client, improving FPS and your PVP to 1.8.9!</h3>
-mod-pack/client called Sturcco Client, improving FPS and your PVP to 1.8.9!
+</p>
 
 <p align="center">
-The client is not affiliated with MOJANG.
+<h3 class="sidebar-card-title">The client is not affiliated with MOJANG.</h3>
+</p>
