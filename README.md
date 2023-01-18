@@ -2,10 +2,13 @@
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
+
+<p align="center">
+<h1 align="center">Sturcco Client</h1>
+
 <a class="navbar-brand" href="https://github.com/NeturnProjects/Sturcco-Client" title="Página inicial">
 <img alt="Logo" src="https://cdn.discordapp.com/attachments/1056020605327130736/1065383342188531763/logo.png">
 </a>
-<h1 align="center">Sturcco Client</h1>
 
 <p align="center">
   <a href="https://discord.gg/kCTRqgr6mG">Discord server</a>
