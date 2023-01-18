@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <a class="navbar-brand" href="https://github.com/NeturnProjects/Sturcco-Client" title="Página inicial">
-<img alt="Logo" src="[https://mush.com.br/branding/mush_flat_menu.png](https://cdn.discordapp.com/attachments/1056020605327130736/1065383342188531763/logo.png)">
+<img alt="Logo" src="https://cdn.discordapp.com/attachments/1056020605327130736/1065383342188531763/logo.png">
 </a>
 <h1 align="center">Sturcco Client</h1>
 
