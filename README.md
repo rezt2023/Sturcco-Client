@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta property="og:title" content="Mush" />
 <h1 align="center">Sturcco Client</h1>
 
 <p align="center">
