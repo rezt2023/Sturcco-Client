@@ -12,10 +12,6 @@
 <a href="https://discord.gg/kCTRqgr6mG">Discord server</a>
 </p>
 
-<p align="center">
-<h3 class="sidebar-card-title">mod-pack/client called Sturcco Client, improving FPS and your PVP to 1.8.9!</h3>
-</p>
+<h1 align="center">mod-pack/client called Sturcco Client, improving FPS and your PVP to 1.8.9!</h1>
 
-<p align="center">
-<h3 class="sidebar-card-title">The client is not affiliated with MOJANG.</h3>
-</p>
+<h1 align="center">The client is not affiliated with MOJANG</h1>
