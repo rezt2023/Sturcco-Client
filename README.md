@@ -11,9 +11,6 @@
 <p align="center">
 <a href="https://discord.gg/kCTRqgr6mG">DISCORD SERVER</a>
 </p>
-
-·
-
 <p align="center">
 <a href="https://github.com/NeturnProjects/Sturcco-Client/releases/tag/2023">DOWNLOAD</a>
 </p>
