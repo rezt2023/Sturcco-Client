@@ -12,6 +12,12 @@
 <a href="https://discord.gg/kCTRqgr6mG">DISCORD SERVER</a>
 </p>
 
+·
+
+<p align="center">
+<a href="https://github.com/NeturnProjects/Sturcco-Client/releases/tag/2023">DOWNLOAD</a>
+</p>
+
 <h2 align="center">mod-pack/client called Sturcco Client, improving FPS and your PVP to 1.8.9!</h2>
 
 <h1 align="center">The client is not affiliated with MOJANG</h1>
